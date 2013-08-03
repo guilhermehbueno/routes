@@ -1,3 +1,6 @@
+
+router-core/target/*
+
 *.class
 
 # Package Files #
