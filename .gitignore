@@ -1,5 +1,6 @@
 
 router-core/target/*
+router-core/test-output/*
 
 *.class
 
